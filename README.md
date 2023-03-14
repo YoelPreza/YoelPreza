@@ -1,10 +1,14 @@
-###  Hi, I'm Yoel 👋 💻
+###  Hi, I'm Yoel 👋 
 
 ![I'm full stack web developer who is pationate about making new projects ](https://github.com/YoelPreza/YoelPreza/blob/main/GITHUB%20PROFILE.jpg?raw=true)
 
-#### I'm full stack web developer who is pationate about making new projects 
+💻 I am a Fullstack developer passionate about creating innovative and efficient solutions. I specialize in developing web applications using technologies such as JavaScript, React, Redux, HTML, CSS, Bootstrap, GIT, GITHub, Node.js, Express, PostgreSQL, Sequelize and Firebase. 
+ 
+🤝🏼 I love working in a team and I am always looking to learn new things. 
 
-Skills: JavaScript | React | Redux | Redux Toolkit | HTML | CSS | Bootstrap | GIT | GITHub | Node.js | Express | PostgreSQL | Sequelize 
+🔍 If you're interested to know more about my projects, take a look at my GitHub profile!
+
+
 
 
 
